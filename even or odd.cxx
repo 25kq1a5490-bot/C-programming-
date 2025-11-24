@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main(int argc, char *argv[])
+{
+int a;
+a=100;
+a%2==0? printf("even"): printf("odd");
+	
+}
